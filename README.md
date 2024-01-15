@@ -41,7 +41,7 @@ Before running the script, make sure you have the following installed:
 3. Configure your Google Civic Information API key:
 
 Open the script in a text editor.
-fi you wnanna Replace #'YOUR_GOOGLE_API_KEY' with your actual Google Civic Information API key.
+if you wnanna Replace #'YOUR_GOOGLE_API_KEY' with your actual Google Civic Information API key.
 
 ## Usage
 
