@@ -35,9 +35,9 @@ Before running the script, make sure you have the following installed:
    ```
 
 2. Install required gems:
-
+    ```bash
    gem install google-api-client erb
-
+    ```
 3. Configure your Google Civic Information API key:
 
 Open the script in a text editor.
@@ -48,9 +48,9 @@ fi you wnanna Replace #'YOUR_GOOGLE_API_KEY' with your actual Google Civic Infor
 Ensure your CSV file (event_attendees.csv) is in the project directory.
 
 1. Run the script:
-   ``bash
+   ```bash
    ruby event_manager.rb
-
+   ```
    View the generated thank-you letters in the 'output' directory.
 
 ## Configuration
